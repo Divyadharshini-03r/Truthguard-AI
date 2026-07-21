@@ -239,7 +239,7 @@ Example:
 
 Divyadharshini R
 
-📧 Email: 
+📧 Email: divyadharshinirdd03@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/your-profile
 
