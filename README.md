@@ -108,7 +108,7 @@ TruthGuard-AI
 ## 📥 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/truthguard-ai.git
+git clone https://github.com/Divyadharshini-03r/Truthguard-AI
 ```
 
 ```bash
