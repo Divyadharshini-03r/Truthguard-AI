@@ -245,8 +245,8 @@ Divyadharshini R
 
 🐙 GitHub: https://github.com/Divyadharshini-03r
 
-<hr>
-
-<h1 align="center">🛡️ Because truth still matters.</h1>
-
 ---
+
+<h1 align="center">
+  🛡️ Because truth still matters.
+</h1>
