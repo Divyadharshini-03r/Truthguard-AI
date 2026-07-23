@@ -241,6 +241,10 @@ Divyadharshini R
 
 📧 Email: divyadharshinirdd03@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/divyadharshini-r-096724356/
 
 🐙 GitHub: https://github.com/Divyadharshini-03r
+
+                                                                 ** Because truth still matters! **
+
+
