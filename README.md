@@ -248,5 +248,5 @@ Divyadharshini R
 ---
 
 <h1 align="center">
-  🛡️ Because truth still matters.
+  🛡️ Because truth still matters!!
 </h1>
